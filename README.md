@@ -1,4 +1,6 @@
-👋 Hellos, Just call me Doris or Yudi.
+Hi, I'm Doris Frank 👋🏾
+
+Just call me Doris or Yudi.
 
 Business Analyst + BI + Systems Analysis
 
@@ -10,10 +12,7 @@ On a mission to turn messy data into clear, confident decisions — one dashboar
 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://dorisfrank.github.io)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak%20Doris%20Frank-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/uduakdoris/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dorisfrank-black?style=for-the-badge\&logo=github)](https://github.com/Dorisfrank)
 
 🛠️ Core Skills & Tools
 
