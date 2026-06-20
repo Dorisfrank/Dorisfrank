@@ -2,9 +2,10 @@
 
 ### Just call me Doris or Yudi.
 
-Business Analyst + BI + Systems Analysis
+## **Business Analyst | BI & Systems Analysis**
 
 I help organizations make faster, clearer decisions by turning data, systems, and strategy into structured, actionable intelligence.
+
 My work spans Business Analysis, Business Intelligence, Systems Analysis, Process Improvement, ERP Implementation Support, Data Modeling, SQL Analysis, and Executive Reporting.
 
 On a mission to turn messy data into clear, confident decisions — one dashboard at a time.
