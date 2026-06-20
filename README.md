@@ -1,6 +1,6 @@
-👋🏾 Hi, I'm Doris Frank 
+# 👋🏾 Hi, I'm Doris Frank 
 
-Just call me Doris or Yudi.
+### Just call me Doris or Yudi.
 
 Business Analyst + BI + Systems Analysis
 
@@ -9,11 +9,11 @@ My work spans Business Analysis, Business Intelligence, Systems Analysis, Proces
 
 On a mission to turn messy data into clear, confident decisions — one dashboard at a time.
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://dorisfrank.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0052CC?style=for-the-badge)](https://dorisfrank.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak%20Doris%20Frank-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/uduakdoris/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak_Doris_Frank-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/uduakdoris/)
 
 ## 🛠️ Core Skills & Tools
 
