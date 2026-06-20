@@ -15,10 +15,19 @@ On a mission to turn messy data into clear, confident decisions — one dashboar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak%20Doris%20Frank-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/uduakdoris/)
 
-🛠️ Core Skills & Tools
+## 🛠️ Core Skills & Tools
 
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC?style=for-the-badge) ![Systems Analysis](https://img.shields.io/badge/Systems%20Analysis-172B4D?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge) ![ERP](https://img.shields.io/badge/ERP-FF6B00?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-0052CC?style=for-the-badge)
+![Systems Analysis](https://img.shields.io/badge/Systems%20Analysis-172B4D?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C63FF?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP-FF6B00?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge)
 
 🚀 Featured Consulting Engagements
 
