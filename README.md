@@ -1,8 +1,8 @@
-# 👋🏾 Hi, I'm Doris Frank 
+👋🏾 Hi, I'm Doris Frank 
 
-### Just call me Doris or Yudi.
+Just call me Doris or Yudi.
 
-## **MBA | Business Analyst | BI & Systems Analysis**
+# **MBA | Business Analyst | BI & Systems Analysis**
 
 I help organizations make faster, clearer decisions by turning data, systems, and strategy into structured, actionable intelligence.
 
