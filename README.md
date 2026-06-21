@@ -1,6 +1,6 @@
-#👋🏾 Hi, I'm Doris Frank 
+#👋 Hi, I'm Doris Frank 
 
-Just call me Doris or Yudi.
+ Just call me Doris or Yudi.
 
 *MBA | Business Analyst | BI & Systems Analysis*
 
