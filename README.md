@@ -87,8 +87,11 @@ This is where business transformation takes shape.
 ☕ Beyond Work 🌝 Other Stuff I Do For Fun
 
 I like talking... so naturally I talk about Business, Data, Systems, and the curious ways people interact with technology.
+
 I enjoy writing the stories behind my projects because every dashboard, process map, and requirements document started with a business problem worth solving.
+
 When I'm not analyzing data or documenting requirements, you'll probably find me exploring fashion, lifestyle, travel, or planning my next big idea.
+
 I'm a librarian at heart, so learning, organizing information, and making sense of complexity come naturally to me.
 
 ☕ Coffee helps.
