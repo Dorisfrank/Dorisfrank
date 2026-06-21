@@ -95,7 +95,9 @@ When I'm not analyzing data or documenting requirements, you'll probably find me
 I'm a librarian at heart, so learning, organizing information, and making sense of complexity come naturally to me.
 
 ☕ Coffee helps.
+
 📚 Curiosity helps more.
+
 ✨ Always learning. Always building.
 
 
