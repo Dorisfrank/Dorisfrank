@@ -49,77 +49,42 @@ An end-to-end Business Intelligence engagement analyzing sales performance, oper
 
 📊 Flagged a 34.5% revenue concentration risk
 
+
 🏦 Summit Bank Plc
-
 Compliance Reporting & Fraud Detection Automation
-
 Developing reporting frameworks, process analysis, stakeholder documentation, and compliance-focused business solutions.
 
 🏥 Intellimed Health
-
 ERP Implementation
-
 Supporting requirements analysis, stakeholder engagement, process mapping, documentation, and implementation activities within a healthcare environment.
 
 📈 StratEdge Consulting Group
-
 Service Innovation Framework
-
 Business transformation initiative focused on process improvement, operational effectiveness, and sustainable growth.
 
+
 📊 Current Focus
+• Business Analysis • Business Intelligence • Systems Analysis • ERP Implementation • Process Improvement • Data Modeling • Executive Reporting • Stakeholder Management
 
-• Business Analysis
-
-• Business Intelligence
-
-• Systems Analysis
-
-• ERP Implementation
-
-• Process Improvement
-
-• Data Modeling
-
-• Executive Reporting
-
-• Stakeholder Management
-
-📂 My Project Hubs
-
-📂 Business-Analysis-Playbook
-
+📂 My Project Hubs 📂 Business-Analysis-Playbook
 A collection of business analysis deliverables, stakeholder maps, business cases, process flows, BRDs, FRDs, user stories, and project artifacts.
-
 This is where structure meets strategy.
 
 📊 BI-Analytics-Lab
-
 SQL analysis, dashboards, KPI frameworks, data models, executive reporting, and analytics projects across multiple industries.
-
 This is where business questions become business intelligence.
 
 ⚙️ Systems-Transformation-Hub
-
 ERP implementation, process improvement, compliance reporting, service innovation, and systems analysis projects focused on helping organizations work smarter.
-
 This is where business transformation takes shape.
 
-☕ Beyond Work
-🌝 Other Stuff I Do For Fun
-
+☕ Beyond Work 🌝 Other Stuff I Do For Fun
 I like talking... so naturally I talk about Business, Data, Systems, and the curious ways people interact with technology.
-
 I enjoy writing the stories behind my projects because every dashboard, process map, and requirements document started with a business problem worth solving.
-
 When I'm not analyzing data or documenting requirements, you'll probably find me exploring fashion, lifestyle, travel, or planning my next big idea.
-
 I'm a librarian at heart, so learning, organizing information, and making sense of complexity come naturally to me.
-
 ☕ Coffee helps.
-
 📚 Curiosity helps more.
-
 ✨ Always learning. Always building.
 
 
