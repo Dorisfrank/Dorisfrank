@@ -6,7 +6,7 @@ Just call me Doris or Yudi.
 
 I help organizations make faster, smarter, and more confident business decisions by transforming data, systems, and business requirements into actionable intelligence.
 
-With 8+ years of experience across healthcare, engineering, financial services, and corporate environments, I specialize in Business Intelligence Consulting, Business Analysis, and Executive Decision Support. I partner with business and technical stakeholders to solve complex business problems through analytics, requirements engineering, executive reporting, and digital transformation.
+With 7+ years of experience across healthcare, engineering, financial services, and corporate environments, I specialize in Business Intelligence Consulting, Business Analysis, and Executive Decision Support. I partner with business and technical stakeholders to solve complex business problems through analytics, requirements engineering, executive reporting, and digital transformation.
 
 I bridge the gap between business and technology by delivering data-driven solutions that improve performance, strengthen governance, reduce risk, and support strategic decision-making.
 
@@ -16,7 +16,9 @@ I don't just build dashboards. I uncover opportunities, quantify risks, and deli
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0052CC?style=for-the-badge)](https://dorisfrank.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak_Doris_Frank-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/uduakdoris/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uduak_Doris_Frank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uduakdoris/)
+
+[![CV](https://img.shields.io/badge/📄_CV-View_/_Download-217346?style=for-the-badge)](https://dorisfrank.github.io/Doris_Frank_CV.pdf)
 
 ## 🛠️ Core Skills & Tools
 
@@ -32,14 +34,14 @@ I don't just build dashboards. I uncover opportunities, quantify risks, and deli
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge)
 
-## 🚀 Selected Consulting Engagements
+## 🚀 Selected Consulting Engagements & Case Studies
 
 📊 NovaMart Executive Business Intelligence Report
 
 Designed an executive KPI framework, developed an 11-query SQL Insight Library, and built a five-page Power BI dashboard that identified a ₦18.6M revenue recovery opportunity, ₦9.1M in revenue leakage, and a ₦19.7M data integrity anomaly, delivering seven executive recommendations that strengthened revenue assurance and executive decision-making.
 
 
-☕ BrewPulse Analytics (CoffeeCo NYC)
+☕ CoffeeCo / BrewPulse Executive Business Intelligence Report
 
 Developed a 42-query SQL Insight Library and three executive dashboards that revealed a 72.3% revenue growth differential, 30× staffing inefficiency, and a 34.5% revenue concentration risk, enabling stronger commercial and operational decisions.
 
@@ -52,6 +54,11 @@ Led project initiation and stakeholder governance for a digital banking transfor
 🏢 Synergy Enterprises HRIS Modernization
 
 Developed a board-ready business case recommending a cloud-based HRIS projected to improve HR operational efficiency by 25%, deliver $5M annual savings, and strengthen enterprise governance.
+
+
+🌱 EcoGrow Digital Product Delivery (GreenSphere Innovations)
+
+Led a Business Analysis engagement spanning requirements through MVP delivery and a future-state investment case for an environmental technology product, tracing 9 requirements end to end and evidencing 7 MVP stories against real Jira delivery. Scoped 6 future capabilities under governance gates calibrated to actual risk, and caught and closed a Customer Satisfaction measurement gap during reporting design.
 
 
 Across every engagement, I combine business intelligence, structured analysis, and stakeholder collaboration to solve business problems and deliver measurable outcomes. I believe great analytics drive better decisions, reduce risk, improve performance, and create lasting business value.
